@@ -34,8 +34,8 @@
 ---
 
 ## 📬 **Contact**
-- **LinkedIn:** add your link here  
-- **Email:** add your email here  
+- **LinkedIn:** Abdelhamid Moltazim
+- **Email:** moltazim10@gmail.com
 
 ---
 
