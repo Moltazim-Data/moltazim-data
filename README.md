@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Abdelhamid Moltazim
 
-🎯 **Junior Data Analyst based in Vienna, Austria**  
+🎯 **Data Analyst based in Vienna, Austria**  
 📊 Passionate about turning data into insights using **SQL, Python, Power BI, and Excel**  
 🚀 Currently building my portfolio and working on real-world data projects
 
