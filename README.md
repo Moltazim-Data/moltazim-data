@@ -15,7 +15,7 @@
 
 ---
 
-## 📂 **Projects (Coming Soon)**
+## 📂 **Projects**
 - 🔹 **Data Cleaning with Python**  
 - 🔹 **SQL Business Analysis Case Study**  
 - 🔹 **Power BI Sales Dashboard**  
