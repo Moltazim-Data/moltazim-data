@@ -64,3 +64,21 @@ The portfolio has a useful range of analytics themes: e-commerce, ETL/data quali
 ## Important limits of this audit
 
 Repository metadata and selected text files were inspected through GitHub. I did not execute every project, inspect every binary/dashboard image, validate cloud credentials, or confirm all GitHub Actions runs. Treat the items above as a prioritized review checklist, not a claim that every project has passed a full technical audit.
+
+
+## Follow-up fixes committed
+
+Additional changes made after the initial audit:
+
+- Added a README to `first_vscode_repo` explaining that it is a starter repository and should only be kept as a featured project if it has a distinct purpose.
+- Rewrote the BigQuery/Olist README to accurately describe starter status, and added ordered BigQuery staging, warehouse, and marts SQL templates plus KPI definitions and validation queries.
+- Expanded the SQL + Power BI sales repository with DuckDB queries aligned to its actual `data/sales.csv` schema, source-data tests, and GitHub Actions checks.
+- Corrected the SQL e-commerce README so it no longer claims top-product/top-customer/cancellation analyses are implemented, and added input/output checks in CI.
+- Hardened the data-cleaning script for all-null columns and normalized column-name collisions, added tests and CI, and corrected the README to note that the legacy-named sample CSV contains restaurant bill/tip fields.
+- Added output validation tests and GitHub Actions workflows for the RFM, ETL quality, procurement, revenue-operations, customer-support, AuditScopeData, and SharePoint opportunity-data projects.
+- Clarified that the Power BI sales dashboard repository currently documents a static screenshot rather than a verified native `.pbix` or deployed report.
+- Added an opportunity CSV contract test and CI workflow to the SharePoint sales analytics project.
+
+## What remains unverified
+
+The workflows were committed but their GitHub Actions runs have not been confirmed as passing in this audit. BigQuery SQL templates require a real project, correctly loaded source tables, and execution/reconciliation in BigQuery. Native Power BI reports, screenshots, tenant connections, and refresh schedules still require building and testing in Power BI/Microsoft 365. The starter `first_vscode_repo` has not been archived; that is intentionally left as a user decision.
