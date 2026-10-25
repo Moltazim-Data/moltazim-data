@@ -1,42 +1,37 @@
-# 👋 Hi, I'm Abdelhamid Moltazim
+# Hi, I'm Abdelhamid Moltazim
 
-🎯 **Data Analyst based in Vienna, Austria**  
-📊 Passionate about turning data into insights using **SQL, Python, Power BI, and Excel**  
-🚀 Currently building my portfolio and working on real-world data projects
+**Data Analyst | SQL • Python • Power BI | Vienna, Austria**
 
----
+I turn raw data into clear business insights through data cleaning, analysis, KPI design, and reporting. This portfolio includes projects built with synthetic/demo data and public datasets; each project should be judged by its documented scope and reproducibility.
 
-## 🔧 **Skills & Tools**
-- **Programming:** Python (Pandas, NumPy, Matplotlib)
-- **Databases:** SQL (PostgreSQL, MySQL)
-- **Business Intelligence:** Power BI, Excel
-- **Version Control:** Git & GitHub
-- **Other:** Data Cleaning, EDA, Dashboards, Reporting
+## Featured projects
 
----
+| Project | What it demonstrates |
+|---|---|
+| [E-commerce Analytics — BigQuery + Power BI](https://github.com/Moltazim-Data/ecommerce-analytics-bigquery-powerbi) | SQL-first data warehouse design, analytics marts, and BI workflow |
+| [E-commerce RFM Analytics](https://github.com/Moltazim-Data/Ecommerce-RFM-Analytics) | Customer segmentation, revenue analysis, and RFM-style behavior analysis |
+| [ETL Data Quality Framework](https://github.com/Moltazim-Data/ETL-Data-Quality-Framework) | Python ETL, validation checks, and data-quality reporting |
+| [Revenue Operations & Sales Pipeline](https://github.com/Moltazim-Data/Revenue-Operations-Sales-Pipeline-Analytics) | Pipeline KPIs, stage conversion, SQL/Python analysis, and dashboard assets |
+| [Customer Support & Service Analytics](https://github.com/Moltazim-Data/Customer-Support-Service-Analytics) | Ticket demand, SLA metrics, backlog, and CSAT analysis |
+| [AuditScopeData](https://github.com/Moltazim-Data/AuditScopeData) | Streamlit data profiling and transparent descriptive group-outcome comparisons |
+| [Procurement Cost Optimization](https://github.com/Moltazim-Data/Procurement-Cost-Optimization) | Supplier/item scorecards and procurement analytics |
+| [Power BI + SharePoint Sales Analytics](https://github.com/Moltazim-Data/PowerBI-SharePoint-Sales-Analytics) | DAX KPI definitions and a documented cloud-source workflow |
 
-## 📂 **Projects**
-- 🔹 **Data Cleaning with Python**  
-- 🔹 **SQL Business Analysis Case Study**  
-- 🔹 **Power BI Sales Dashboard**  
-- 🔹 **Exploratory Data Analysis (EDA) Project**
+## Skills and tools
 
-*(These projects will appear here.)*
+- **SQL:** analytical queries, aggregations, CTEs, window functions, data modeling
+- **Python:** pandas, data cleaning, exploratory analysis, validation, automation
+- **BI and reporting:** Power BI, DAX, dashboard design, KPI definitions
+- **Data platforms:** DuckDB, BigQuery
+- **Workflow:** Git, GitHub, documentation, testing
 
----
+## How to review my projects
 
-## 🎓 **About Me**
-- 🔍 I enjoy exploring datasets and finding meaningful patterns  
-- 📚 Always learning new tools for data & analytics  
-- 🌍 Based in Vienna, originally multilingual: Arabic, French, English, learning German  
-- 💼 Looking for data-related opportunities in Austria
+Each project README describes its purpose, setup, assets, and limitations. Where data is synthetic or a dashboard is a browser preview rather than a native Power BI file, that is stated explicitly. I aim to make the work reproducible and the conclusions appropriately scoped.
 
----
+## Contact
 
-## 📬 **Contact**
-- **LinkedIn:** Abdelhamid Moltazim
-- **Email:** moltazim10@gmail.com
+- **Email:** [moltazim10@gmail.com](mailto:moltazim10@gmail.com)
+- **GitHub:** [Moltazim-Data](https://github.com/Moltazim-Data)
 
----
-
-⭐️ *Thanks for visiting my profile! Feel free to explore my repositories or connect with me.*  
+Thanks for visiting. Feedback and opportunities in data analytics and BI are welcome.
