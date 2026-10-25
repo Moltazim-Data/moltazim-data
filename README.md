@@ -29,6 +29,10 @@ I turn raw data into clear business insights through data cleaning, analysis, KP
 
 Each project README describes its purpose, setup, assets, and limitations. Where data is synthetic or a dashboard is a browser preview rather than a native Power BI file, that is stated explicitly. I aim to make the work reproducible and the conclusions appropriately scoped.
 
+## Portfolio audit
+
+See [the account-wide repository audit](docs/repository_audit.md) for the review findings, missing deliverables, and prioritized improvements across the repositories.
+
 ## Contact
 
 - **Email:** [moltazim10@gmail.com](mailto:moltazim10@gmail.com)
