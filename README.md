@@ -1,8 +1,18 @@
 # Hi, I'm Abdelhamid Moltazim
 
 **Data Analyst | SQL • Python • Power BI | Vienna, Austria**
+I help businesses cut manual work with data and AI — from messy spreadsheets to automated reports and clear decisions.
 
-I turn raw data into clear business insights through data cleaning, analysis, KPI design, and reporting. This portfolio includes projects built with synthetic/demo data and public datasets; each project should be judged by its documented scope and reproducibility.
+Since 2023 I have worked as a freelance data analyst for 25+ clients, mostly e-commerce stores, restaurants and small shops: data cleaning, KPI dashboards, reporting and process automation.
+
+🔹 Automation & AI: Power Query, Python, automated reporting and data-quality checks; I use AI tools (Claude, ChatGPT, Gemini) daily as part of my workflow
+🔹 Business Intelligence: Power BI (DAX), SQL, Excel (advanced), BigQuery, Looker Studio, SharePoint
+🔹 Business focus: sales & revenue analysis, KPIs, supplier costs, customer segmentation (RFM)
+🔹 Background: Applied Mathematics & Computer Science · Google Data Analytics Certificate
+🔹 Languages: German (B2), English, French, Arabic
+
+Portfolio: github.com/Moltazim-Data
+Open to Data Automation, BI and Business Data Analyst roles in Vienna.
 
 ## Featured projects
 
