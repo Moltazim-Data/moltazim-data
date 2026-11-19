@@ -1,51 +1,44 @@
-# Hi, I'm Abdelhamid Moltazim
+# Abdelhamid Moltazim
 
-**Data Analyst | SQL • Python • Power BI | Vienna, Austria**
-I help businesses cut manual work with data and AI — from messy spreadsheets to automated reports and clear decisions.
+**Data Analyst · BI & Automation · Vienna, Austria**
 
-Since 2023 I have worked as a freelance data analyst for 25+ clients, mostly e-commerce stores, restaurants and small shops: data cleaning, KPI dashboards, reporting and process automation.
+I help teams turn operational data into reliable reporting and practical decisions. My work combines SQL, Python, Power BI and Excel to clean data, define KPIs, automate recurring tasks and make business performance easier to understand.
 
-🔹 Automation & AI: Power Query, Python, automated reporting and data-quality checks; I use AI tools (Claude, ChatGPT, Gemini) daily as part of my workflow
-🔹 Business Intelligence: Power BI (DAX), SQL, Excel (advanced), BigQuery, Looker Studio, SharePoint
-🔹 Business focus: sales & revenue analysis, KPIs, supplier costs, customer segmentation (RFM)
-🔹 Background: Applied Mathematics & Computer Science · Google Data Analytics Certificate
-🔹 Languages: German (B2), English, French, Arabic
+Since 2023, I have worked on data projects for 25+ clients across e-commerce, restaurants and small businesses, covering data preparation, dashboards, reporting and workflow automation.
 
-Portfolio: github.com/Moltazim-Data
-Open to Data Automation, BI and Business Data Analyst roles in Vienna.
+### Focus areas
+- **Analytics & reporting:** SQL, Python, Excel, KPI design and data validation
+- **Business intelligence:** Power BI, DAX, BigQuery and Looker Studio
+- **Automation:** Power Query, Python workflows, quality checks and AI-assisted tools
+- **Business questions:** sales and revenue, customer segmentation, supplier performance and operations
 
-## Featured projects
+### Featured work
 
-| Project | What it demonstrates |
+| Project | Highlights |
 |---|---|
-| [E-commerce Analytics — BigQuery + Power BI](https://github.com/Moltazim-Data/ecommerce-analytics-bigquery-powerbi) | SQL-first data warehouse design, analytics marts, and BI workflow |
-| [E-commerce RFM Analytics](https://github.com/Moltazim-Data/Ecommerce-RFM-Analytics) | Customer segmentation, revenue analysis, and RFM-style behavior analysis |
-| [ETL Data Quality Framework](https://github.com/Moltazim-Data/ETL-Data-Quality-Framework) | Python ETL, validation checks, and data-quality reporting |
-| [Revenue Operations & Sales Pipeline](https://github.com/Moltazim-Data/Revenue-Operations-Sales-Pipeline-Analytics) | Pipeline KPIs, stage conversion, SQL/Python analysis, and dashboard assets |
-| [Customer Support & Service Analytics](https://github.com/Moltazim-Data/Customer-Support-Service-Analytics) | Ticket demand, SLA metrics, backlog, and CSAT analysis |
-| [AuditScopeData](https://github.com/Moltazim-Data/AuditScopeData) | Streamlit data profiling and transparent descriptive group-outcome comparisons |
-| [Procurement Cost Optimization](https://github.com/Moltazim-Data/Procurement-Cost-Optimization) | Supplier/item scorecards and procurement analytics |
-| [Power BI + SharePoint Sales Analytics](https://github.com/Moltazim-Data/PowerBI-SharePoint-Sales-Analytics) | DAX KPI definitions and a documented cloud-source workflow |
+| [E-commerce Analytics · BigQuery + Power BI](https://github.com/Moltazim-Data/ecommerce-analytics-bigquery-powerbi) | Warehouse workflow, SQL transformations and BI-ready marts |
+| [E-commerce RFM Analytics](https://github.com/Moltazim-Data/Ecommerce-RFM-Analytics) | Customer value segments, repeat behavior and cohort analysis |
+| [ETL Data Quality Framework](https://github.com/Moltazim-Data/ETL-Data-Quality-Framework) | ETL workflow, validation rules and quality reporting |
+| [Revenue Operations & Pipeline Analytics](https://github.com/Moltazim-Data/Revenue-Operations-Sales-Pipeline-Analytics) | Funnel KPIs, conversion, pipeline and sales-cycle analysis |
+| [Customer Support Analytics](https://github.com/Moltazim-Data/Customer-Support-Service-Analytics) | SLA performance, backlog, workload and CSAT |
+| [AuditScopeData](https://github.com/Moltazim-Data/AuditScopeData) | Streamlit profiling and descriptive group comparisons |
+| [Procurement Cost Optimization](https://github.com/Moltazim-Data/Procurement-Cost-Optimization) | Supplier scorecards and cost/lead-time/quality comparison |
+| [Power BI + SharePoint Sales Analytics](https://github.com/Moltazim-Data/PowerBI-SharePoint-Sales-Analytics) | KPI measures and cloud workbook reporting workflow |
 
-## Skills and tools
+### Tools
 
-- **SQL:** analytical queries, aggregations, CTEs, window functions, data modeling
-- **Python:** pandas, data cleaning, exploratory analysis, validation, automation
-- **BI and reporting:** Power BI, DAX, dashboard design, KPI definitions
-- **Data platforms:** DuckDB, BigQuery
-- **Workflow:** Git, GitHub, documentation, testing
+**SQL** · **Python (pandas)** · **Power BI / DAX** · **Excel / Power Query** · **BigQuery** · **DuckDB** · **Looker Studio** · **Git / GitHub**
 
-## How to review my projects
+### Background
 
-Each project README describes its purpose, setup, assets, and limitations. Where data is synthetic or a dashboard is a browser preview rather than a native Power BI file, that is stated explicitly. I aim to make the work reproducible and the conclusions appropriately scoped.
+Applied mathematics and computer science · Google Data Analytics Certificate · software-development projects at 42 Vienna.
 
-## Portfolio audit
+**Languages:** German (B2), English, French and Arabic.
 
-See [the account-wide repository audit](docs/repository_audit.md) for the review findings, missing deliverables, and prioritized improvements across the repositories.
+I am open to Data Analyst, BI Analyst and Data Automation roles in Vienna, including hybrid and remote collaboration.
 
-## Contact
+### Contact
 
-- **Email:** [moltazim10@gmail.com](mailto:moltazim10@gmail.com)
-- **GitHub:** [Moltazim-Data](https://github.com/Moltazim-Data)
-
-Thanks for visiting. Feedback and opportunities in data analytics and BI are welcome.
+- [Portfolio](https://moltazimdata.com)
+- [LinkedIn](https://www.linkedin.com/in/abdelhamid-moltazim)
+- [Email](mailto:moltazim10@gmail.com)
