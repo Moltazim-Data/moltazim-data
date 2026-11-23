@@ -12,11 +12,12 @@
 
 ## About
 
-Data analyst focused on **business intelligence, analytics engineering and automation**. I turn messy operational data into trusted datasets, meaningful KPIs, and reporting that helps teams make better decisions.
+Data Analyst with a **Master’s in Computing Science**, focused on Business Intelligence, AI-assisted workflows and automation. I transform messy operational data into trusted datasets, meaningful KPIs, clear reporting, and smarter processes.
+
 
 - **25+ clients** supported through data and analytics projects since 2023
 - Core toolkit: **SQL · Python · Power BI · Excel**
-- Interests: KPI design, data quality, dashboarding, workflow automation and analytics
+- Focus areas: **BI & analytics · AI applications · process/workflow automation · data quality**
 
 ---
 
@@ -31,10 +32,23 @@ Data analyst focused on **business intelligence, analytics engineering and autom
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black)
+![AI](https://img.shields.io/badge/AI-Applications-7C3AED?style=flat-square&logo=openai&logoColor=white)
+![Automation](https://img.shields.io/badge/Workflow-Automation-1F9D77?style=flat-square&logo=zapier&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 </div>
+
+---
+
+## AI & Automation
+
+Exploring how AI and automation can reduce repetitive work and make analytics workflows more useful.
+
+- **AI-assisted analysis** — use AI to support exploration, interpretation, and insight communication
+- **Workflow automation** — streamline repeatable data preparation, reporting, and business tasks
+- **Python automation** — build scripts for practical data-processing and productivity workflows
+- **Human-in-the-loop** — keep outputs reviewable, grounded, and quality-checked
 
 ---
 
@@ -160,6 +174,7 @@ KPI measures and connected workbook reporting workflow.
 
 ## Background
 
+- **Master’s in Computing Science**
 - Applied mathematics & computer science
 - Google Data Analytics Certificate
 - Software-development training at **42 Vienna**
