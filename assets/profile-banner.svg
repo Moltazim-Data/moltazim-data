@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#071a17"/><stop offset="1" stop-color="#101d2a"/></linearGradient><linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#5ee0a0"/><stop offset="1" stop-color="#49c6d8"/></linearGradient></defs>
+<rect width="1200" height="320" rx="24" fill="url(#bg)"/>
+<g fill="none" stroke="#2a5148" opacity=".55"><path d="M0 240H1200M0 180H1200M0 120H1200M0 60H1200"/><path d="M160 0V320M320 0V320M480 0V320M640 0V320M800 0V320M960 0V320"/></g>
+<g opacity=".24" fill="#4cd49a"><rect x="770" y="72" width="30" height="30" rx="5"/><rect x="814" y="72" width="30" height="30" rx="5"/><rect x="858" y="72" width="30" height="30" rx="5"/><rect x="902" y="72" width="30" height="30" rx="5"/><rect x="946" y="72" width="30" height="30" rx="5"/><rect x="990" y="72" width="30" height="30" rx="5"/><rect x="1034" y="72" width="30" height="30" rx="5"/><rect x="1078" y="72" width="30" height="30" rx="5"/></g>
+<text x="72" y="102" fill="#72d8ac" font-family="monospace" font-size="18" letter-spacing="4">DATA • ANALYTICS • BUSINESS INTELLIGENCE</text>
+<text x="72" y="168" fill="#f2f7f5" font-family="Arial,Helvetica,sans-serif" font-size="54" font-weight="700">Abdelhamid Moltazim</text>
+<text x="76" y="214" fill="#c5d8d1" font-family="Arial,Helvetica,sans-serif" font-size="26">Turning business data into clarity, decisions &amp; impact.</text>
+<rect x="72" y="252" width="245" height="4" rx="2" fill="url(#accent)"/>
+<text x="72" y="286" fill="#8ba9a0" font-family="monospace" font-size="16">VIENNA, AUSTRIA  ·  OPEN TO DATA &amp; BI OPPORTUNITIES</text>
+<g stroke="url(#accent)" stroke-width="3" fill="none" opacity=".8"><path d="M800 218l50-38 48 16 44-58 48 32 54-72"/><circle cx="800" cy="218" r="5" fill="#5ee0a0"/><circle cx="850" cy="180" r="5" fill="#5ee0a0"/><circle cx="898" cy="196" r="5" fill="#5ee0a0"/><circle cx="942" cy="138" r="5" fill="#5ee0a0"/><circle cx="990" cy="170" r="5" fill="#5ee0a0"/><circle cx="1044" cy="98" r="5" fill="#5ee0a0"/></g>
+</svg>
