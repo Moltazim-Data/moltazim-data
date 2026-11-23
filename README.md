@@ -1,146 +1,176 @@
 <div align="center">
 
-# Abdelhamid Moltazim
+<img src="https://raw.githubusercontent.com/Moltazim-Data/moltazim-data/main/assets/profile-banner.svg" width="100%" alt="Abdelhamid Moltazim profile banner" />
 
-### Data Analyst · BI & Automation · Vienna, Austria
-
-Turning messy business data into clear KPIs, reliable reporting, and practical decisions.
-
-[Portfolio](https://moltazimdata.com) · [LinkedIn](https://www.linkedin.com/in/abdelhamid-moltazim) · [Email](mailto:moltazim10@gmail.com)
+<a href="https://moltazimdata.com"><img src="https://img.shields.io/badge/PORTFOLIO-1f6f57?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/abdelhamid-moltazim"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:moltazim10@gmail.com"><img src="https://img.shields.io/badge/CONTACT-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 </div>
 
 ---
 
-## 👋 About me
+## About
 
-I help teams turn operational data into reliable reporting and practical decisions. My work combines SQL, Python, Power BI and Excel to clean data, define KPIs, automate recurring tasks and make business performance easier to understand.
+Data analyst focused on **business intelligence, analytics engineering and automation**. I turn messy operational data into trusted datasets, meaningful KPIs, and reporting that helps teams make better decisions.
 
-Since 2023, I have worked on data projects for **25+ clients** across e-commerce, restaurants and small businesses, covering data preparation, dashboards, reporting and workflow automation.
+- **25+ clients** supported through data and analytics projects since 2023
+- Core toolkit: **SQL · Python · Power BI · Excel**
+- Interests: KPI design, data quality, dashboarding, workflow automation and analytics
 
-## 🧰 Toolbox
+---
+
+## Tech stack
 
 <div align="center">
 
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 </div>
 
-## 🚀 Featured projects
+---
+
+## Selected work
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### [E-commerce Analytics · BigQuery + Power BI](https://github.com/Moltazim-Data/ecommerce-analytics-bigquery-powerbi)
+### 🛒 E-commerce Analytics
+**BigQuery · SQL · Power BI**
 
-Warehouse workflow, SQL transformations and BI-ready marts.
+Warehouse workflow, SQL transformations, and analytics-ready marts.
 
-</td>
-<td width="50%">
-
-### [E-commerce RFM Analytics](https://github.com/Moltazim-Data/Ecommerce-RFM-Analytics)
-
-Customer value segments, repeat behavior and cohort analysis.
+[Repository ↗](https://github.com/Moltazim-Data/ecommerce-analytics-bigquery-powerbi)
 
 </td>
-</tr>
-<tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### [ETL Data Quality Framework](https://github.com/Moltazim-Data/ETL-Data-Quality-Framework)
+### 🎯 Customer RFM Segmentation
+**Python · Analytics**
 
-ETL workflow, validation rules and quality reporting.
+Customer value segments, repeat behavior, and cohort exploration.
 
-</td>
-<td width="50%">
-
-### [Revenue Operations & Pipeline Analytics](https://github.com/Moltazim-Data/Revenue-Operations-Sales-Pipeline-Analytics)
-
-Funnel KPIs, conversion, pipeline and sales-cycle analysis.
+[Repository ↗](https://github.com/Moltazim-Data/Ecommerce-RFM-Analytics)
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### [Customer Support Analytics](https://github.com/Moltazim-Data/Customer-Support-Service-Analytics)
+### 🧪 ETL & Data Quality
+**Python · Validation · ETL**
 
-SLA performance, backlog, workload and CSAT.
+Reusable pipeline structure, quality checks, and reporting.
+
+[Repository ↗](https://github.com/Moltazim-Data/ETL-Data-Quality-Framework)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### [AuditScopeData](https://github.com/Moltazim-Data/AuditScopeData)
+### 📈 Revenue Operations Analytics
+**Sales funnel · Pipeline KPIs**
 
-Streamlit profiling and descriptive group comparisons.
+Conversion, pipeline tracking, and sales-cycle analysis.
+
+[Repository ↗](https://github.com/Moltazim-Data/Revenue-Operations-Sales-Pipeline-Analytics)
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### [Procurement Cost Optimization](https://github.com/Moltazim-Data/Procurement-Cost-Optimization)
+### 🎧 Customer Support Analytics
+**Service KPIs · SLA**
 
-Supplier scorecards and cost, lead-time and quality comparisons.
+Backlog, service levels, workload, and satisfaction metrics.
+
+[Repository ↗](https://github.com/Moltazim-Data/Customer-Support-Service-Analytics)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### [Power BI + SharePoint Sales Analytics](https://github.com/Moltazim-Data/PowerBI-SharePoint-Sales-Analytics)
+### 🔍 AuditScopeData
+**Python · Streamlit**
 
-KPI measures and cloud workbook reporting workflow.
+Data profiling and exploratory group comparisons.
+
+[Repository ↗](https://github.com/Moltazim-Data/AuditScopeData)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏭 Procurement Cost Analysis
+**Supplier scorecards**
+
+Supplier comparisons across cost, lead time, and quality indicators.
+
+[Repository ↗](https://github.com/Moltazim-Data/Procurement-Cost-Optimization)
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 SharePoint Sales Reporting
+**Power BI · SharePoint**
+
+KPI measures and connected workbook reporting workflow.
+
+[Repository ↗](https://github.com/Moltazim-Data/PowerBI-SharePoint-Sales-Analytics)
 
 </td>
 </tr>
 </table>
 
-## 📊 GitHub activity
+---
+
+## GitHub metrics
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Moltazim-Data&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Moltazim-Data&layout=compact&hide_border=true&theme=github_dark)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Moltazim-Data&show_icons=true&hide_border=true&rank_icon=github&theme=github_dark&title_color=62d6a5&icon_color=62d6a5" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moltazim-Data&layout=compact&hide_border=true&theme=github_dark&title_color=62d6a5" alt="Top languages" />
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Moltazim-Data&theme=github-dark-blue&hide_border=true)
+<br/>
 
-### Contribution graph
-
-![Contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=Moltazim-Data&theme=github-compact&hide_border=true&area=true)
+<img src="https://streak-stats.demolab.com?user=Moltazim-Data&hide_border=true&theme=github-dark-blue" alt="Contribution streak" />
 
 </div>
 
-### Contribution snake
+### Contribution activity
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Moltazim-Data/moltazim-data/output/snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Moltazim-Data/moltazim-data/output/snake.svg">
-    <img alt="Animated GitHub contribution snake" src="https://raw.githubusercontent.com/Moltazim-Data/moltazim-data/output/snake.svg">
-  </picture>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Moltazim-Data&theme=github-compact&hide_border=true&area=true&color=62d6a5&line=62d6a5&point=ffffff" width="100%" alt="GitHub contribution graph" />
+
+<img src="https://raw.githubusercontent.com/Moltazim-Data/moltazim-data/output/snake-dark.svg" width="100%" alt="Animated contribution snake" />
+
 </div>
 
-## 🎓 Background
+---
 
-- Applied mathematics and computer science
+## Background
+
+- Applied mathematics & computer science
 - Google Data Analytics Certificate
-- Software-development projects at 42 Vienna
-- Languages: German (B2), English, French and Arabic
+- Software-development training at **42 Vienna**
+- Languages: **German (B2) · English · French · Arabic**
 
-## 🤝 Let's connect
+## Let's connect
 
-Open to **Data Analyst, BI Analyst and Data Automation** roles in Vienna and remote/hybrid opportunities.
+Interested in **Data Analyst · BI Analyst · Analytics & Automation** roles in Vienna or remote/hybrid.
 
 <div align="center">
 
-[Portfolio](https://moltazimdata.com) · [LinkedIn](https://www.linkedin.com/in/abdelhamid-moltazim) · [Email](mailto:moltazim10@gmail.com)
+<a href="https://moltazimdata.com">Portfolio</a> · <a href="https://www.linkedin.com/in/abdelhamid-moltazim">LinkedIn</a> · <a href="mailto:moltazim10@gmail.com">Email</a>
 
 </div>
