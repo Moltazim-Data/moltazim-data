@@ -118,6 +118,16 @@ KPI measures and cloud workbook reporting workflow.
 
 </div>
 
+### Contribution snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Moltazim-Data/moltazim-data/output/snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Moltazim-Data/moltazim-data/output/snake.svg">
+    <img alt="Animated GitHub contribution snake" src="https://raw.githubusercontent.com/Moltazim-Data/moltazim-data/output/snake.svg">
+  </picture>
+</div>
+
 ## 🎓 Background
 
 - Applied mathematics and computer science
