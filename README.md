@@ -112,6 +112,10 @@ KPI measures and cloud workbook reporting workflow.
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Moltazim-Data&theme=github-dark-blue&hide_border=true)
 
+### Contribution graph
+
+![Contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=Moltazim-Data&theme=github-compact&hide_border=true&area=true)
+
 </div>
 
 ## 🎓 Background
