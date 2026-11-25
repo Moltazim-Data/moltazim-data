@@ -12,7 +12,7 @@
 
 ## About
 
-Data Analyst with a **Master’s in Computing Science**, focused on Business Intelligence, AI-assisted workflows and automation. I transform messy operational data into trusted datasets, meaningful KPIs, clear reporting, and smarter processes.
+Data & Business Analyst with a background in **applied mathematics, computer science and business**, focused on Business Intelligence, AI-assisted workflows and automation. I transform messy operational data into trusted datasets, meaningful KPIs, clear reporting, and smarter processes.
 
 
 - **25+ clients** supported through data and analytics projects since 2023
@@ -174,7 +174,7 @@ KPI measures and connected workbook reporting workflow.
 
 ## Background
 
-- **Master’s in Computing Science**
+- **Master’s coursework** in Scientific Computing · Strasbourg (2019–2021)
 - Applied mathematics & computer science
 - Google Data Analytics Certificate
 - Software-development training at **42 Vienna**
